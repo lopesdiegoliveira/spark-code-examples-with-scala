@@ -6,7 +6,7 @@
 
 ##### Summary
 
-1. [Variables](variables.sc)
-2. [Flow Control](flowControl.sc)
-3. [Functions](functions.sc)
-4. [Data Structures](dataStructures.sc)
+1. [Variables](basics/variables.sc)
+2. [Flow Control](basics/flowControl.sc)
+3. [Functions](basics/functions.sc)
+4. [Data Structures](basics/dataStructures.sc)
