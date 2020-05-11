@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i0.wp.com/www.cienciaedados.com/wp-content/uploads/2015/12/Data-Science-com-Scala-Scalable-Language.png?fit=635%2C282">
+  <img src="https://miro.medium.com/max/698/1*joLOATG-6WgXD-2Q22tzkQ.jpeg">
 </p>
 
 <h1 align="center">Code Examples</h1>
