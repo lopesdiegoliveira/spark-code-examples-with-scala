@@ -7,7 +7,7 @@
 ### Summary
 
 #### Basics Codes
-1. [Variables](basics/variables.sc)
-2. [Flow Control](basics/flowControl.sc)
-3. [Functions](basics/functions.sc)
-4. [Data Structures](basics/dataStructures.sc)
+1. [Variables](src/main/scala/basics/variables.sc)
+2. [Flow Control](src/main/scala/basics/flowControl.sc)
+3. [Functions](src/main/scala/basics/functions.sc)
+4. [Data Structures](src/main/scala/basics/dataStructures.sc)
