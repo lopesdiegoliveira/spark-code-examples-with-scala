@@ -22,7 +22,7 @@ object wordcount {
       val wordCounts = lowerCaseWords.countByValue()
       
       // Print the first 20 results
-      val sample = wordCounts.take(30)
+      val sample = wordCounts.take(20)
 
       var i: Int = 1
       for ((word, count) <- sample) {
