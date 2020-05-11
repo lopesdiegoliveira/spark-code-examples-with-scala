@@ -1,4 +1,8 @@
-# Scala Code Examples
+<p align="center">
+  <img src="https://i0.wp.com/www.cienciaedados.com/wp-content/uploads/2015/12/Data-Science-com-Scala-Scalable-Language.png?fit=635%2C282">
+</p>
+
+<h1 align="center">Code Examples</h1>
 
 ### Getting Started with Scala
 
