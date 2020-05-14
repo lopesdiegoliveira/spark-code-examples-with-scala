@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/proxy/S9qpXl_CANk7jlGxdEppUadOBmSotiUaCrpvOyXB99F2OZ8uQOJ3j0WPzk_7GQSIX5ndALd_zarRawmmJrLjjL4f87F5gQ_IxrGrZ7nZtz6fsCJsr6o">
+  <img src="spark_scala.png">
 </p>
 
 <h1 align="center">Code Examples</h1>
